@@ -1,0 +1,40 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "IND hockey",
+      "news": "Indian hockey team won the trophy",
+      "fullNews": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur officiis magni mollitia quas obcaecati ullam tempore nulla a commodi, ex dolore quos vero, sunt similique. Aperiam exercitationem officiis consequatur culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, veniam porro blanditiis, quaerat quos, distinctio eos a harum optio minima perferendis officia facilis. Necessitatibus veniam suscipit expedita autem aspernatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, assumenda hic aut quaerat neque repellat odio non mollitia amet adipisci dolores iusto esse cupiditate quas in. Voluptas voluptates neque aperiam. Lorem ipsum dolor sit amet consectetur adipisicing elit. In ratione incidunt reprehenderit commodi. Vel quia quisquam dignissimos cupiditate, saepe sapiente possimus, fuga nostrum natus, optio quis odit nesciunt aspernatur distinctio."
+    },
+    {
+      "id": 2,
+      "title": "IND cricket",
+      "news": "Indian cricket team won the series against WI",
+      "fullNews": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur officiis magni mollitia quas obcaecati ullam tempore nulla a commodi, ex dolore quos vero, sunt similique. Aperiam exercitationem officiis consequatur culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, veniam porro blanditiis, quaerat quos, distinctio eos a harum optio minima perferendis officia facilis. Necessitatibus veniam suscipit expedita autem aspernatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, assumenda hic aut quaerat neque repellat odio non mollitia amet adipisci dolores iusto esse cupiditate quas in. Voluptas voluptates neque aperiam. Lorem ipsum dolor sit amet consectetur adipisicing elit. In ratione incidunt reprehenderit commodi. Vel quia quisquam dignissimos cupiditate, saepe sapiente possimus, fuga nostrum natus, optio quis odit nesciunt aspernatur distinctio."
+    },
+    {
+      "id": 3,
+      "title": "LGM",
+      "news": "Dhoni new production movie is LGM",
+      "fullNews": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur officiis magni mollitia quas obcaecati ullam tempore nulla a commodi, ex dolore quos vero, sunt similique. Aperiam exercitationem officiis consequatur culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, veniam porro blanditiis, quaerat quos, distinctio eos a harum optio minima perferendis officia facilis. Necessitatibus veniam suscipit expedita autem aspernatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, assumenda hic aut quaerat neque repellat odio non mollitia amet adipisci dolores iusto esse cupiditate quas in. Voluptas voluptates neque aperiam. Lorem ipsum dolor sit amet consectetur adipisicing elit. In ratione incidunt reprehenderit commodi. Vel quia quisquam dignissimos cupiditate, saepe sapiente possimus, fuga nostrum natus, optio quis odit nesciunt aspernatur distinctio."
+    },
+    {
+      "title": "Jailer Movie",
+      "news": "Jailer movie released and record breaking collection",
+      "fullNews": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut sed odit corrupti dolorum, nisi officiis illo tenetur quisquam aliquam quam corporis ipsam. Iusto sunt necessitatibus inventore perspiciatis laudantium enim possimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam expedita rerum soluta magnam ea. Eos ipsam, tempore at earum natus, accusamus consectetur ipsa repellat rem sint incidunt recusandae temporibus expedita.",
+      "id": 4
+    },
+    {
+      "title": "LEO - haroldas",
+      "news": "Lokesh kanagaraj reveals Haroldas character",
+      "fullNews": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut sed odit corrupti dolorum, nisi officiis illo tenetur quisquam aliquam quam corporis ipsam. Iusto sunt necessitatibus inventore perspiciatis laudantium enim possimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam expedita rerum soluta magnam ea. Eos ipsam, tempore at earum natus, accusamus consectetur ipsa repellat rem sint incidunt recusandae temporibus expedita.",
+      "id": 5
+    },
+    {
+      "title": "Vidamuyarchi",
+      "news": "Vidamuyarchi shooting will be start soon, all set",
+      "fullNews": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut sed odit corrupti dolorum, nisi officiis illo tenetur quisquam aliquam quam corporis ipsam. Iusto sunt necessitatibus inventore perspiciatis laudantium enim possimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam expedita rerum soluta magnam ea. Eos ipsam, tempore at earum natus, accusamus consectetur ipsa repellat rem sint incidunt recusandae temporibus expedita.",
+      "id": 6
+    }
+  ]
+}
